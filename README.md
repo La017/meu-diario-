@@ -1,4 +1,4 @@
-# meu-diario-
+# meu-diario
 Repositório criado nas aulas de git da iwtraining 
 
 ### 09/07/2021
